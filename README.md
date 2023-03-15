@@ -1,0 +1,3 @@
+# Manual-testing
+
+Testowanie manualne.
