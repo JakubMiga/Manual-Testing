@@ -1,1 +1,27 @@
-Quality Assurance GoIT marathon
+W tym dziale uczestniczyłem w kilkudniowym maratonie Quality Assurance realizowanym przez GoIT. 
+
+W realizowanym maratonie nabyłem wiedzę z zakresu teorii, obowiązków QA oraz praktycznych zagadnień poprzez wykonywane projekty.
+
+Sylabus Maratonu QA:
+/Teoria/
+— Kim jest tester?
+— Rola testera w zespole
+— Artefakty testowania (co to jest przypadek testowy i jaka jest jego funkcja)
+— Jak wypełnić raport o błędzie
+— Obieg dokumentacji (co dzieje się po wypełnieniu przez testera raportu o błędzie).
+— Typy testowania
+/Praktyka/
+- Praca z programami: TestReil, Jira
+- Realizacja dwóch projektów: bug reporting, tworzenie test casów, praca z dokumentacją
+
+
+Projekt 1:
+- Praca z narzędziem TestReil
+- Praca z dokumentacją oraz tworzenie test casów
+Testowana strona: https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917
+Dokumentacja strony: https://faq-qa.m.goit.global/pl/
+
+Projekt 2:
+- Praca z narzędziem Jira
+- Praca z dokumentacją oraz bug reporting (na podstawie zgłoszeń fikcyjnych użytkowników)
+Testowana strona: https://pro-test.qa.m.goit.global/
