@@ -1,3 +1,3 @@
-# Testowanie-Manualane
+# Repozytorium Testowania Manulanego.
 
 Testowanie manualne.
