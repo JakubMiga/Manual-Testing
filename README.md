@@ -1,1 +1,1 @@
-#Dział poświęcony rezulatom nauki testowania manualnego. 
+# Dział poświęcony rezulatom nauki testowania manualnego. 
