@@ -1,3 +1,1 @@
-# Repozytorium Testowania Manulanego.
-
-Testowanie manualne.
+Dział poświęcony rezulatom nauki testowania manualnego. 
