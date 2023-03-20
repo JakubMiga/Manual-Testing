@@ -22,7 +22,7 @@ Cześć mam na imię Jakub i mam 24 lata. Ukończyłem studia inżynierskie na U
 * [Python for Everybody - University of Michigan](https://online.umich.edu/series/python-for-everybody/)
 * [Postman - testowanie Rest API](https://www.udemy.com/share/102AtS3@nXw_FtL67ld8w44uK_UQeKhYm5Bqkp8Dd6ORydnOsEw26dQHt63UISJWQBPud9LOwA==/)
 * [HTML i CSS od podstaw](https://eduweb.pl/programowanie-i-www/html-css/html-css-od-podstaw)
-* [SQL od podstaw](
+* [SQL od podstaw](https://www.udemy.com/share/102hys3@_E1Pm2jKJ6e72-6XuTckz4AB8jO8bB43UCe5JAd_WAu7i16p6nSxf4yaE3Znou7SuA==/)
 * [Git i GitHub](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/learn/lecture/13928492?start=15#overview)
 * [Jira](https://www.udemy.com/share/105GCQ3@XcZjsK1RRzMOnmFi1eydquDmjh0oe8QAuZo0wtvClfd7vp_1bb1K7wYuIcA7onR0ZQ==/)
 # Aktywności
