@@ -1,8 +1,8 @@
-W tym projekcie testowałem program MrBuggy7.
+In this project, I tested the MrBuggy7 programme.
 
-MrBuggy7 to fikcyjny program komputerowy, który jest często używany jako przykład w testowaniu oprogramowania lub w szkoleniach z zakresu bezpieczeństwa informatycznego. Program ten został stworzony specjalnie do celów edukacyjnych i zawiera wiele różnych błędów i podatności, które można wykorzystać do nauki testowania oraz szukania i wykorzystywania luk w zabezpieczeniach aplikacji.
+MrBuggy7 is a fictional computer program that is often used as an example in software testing or IT security training. The programme was created specifically for educational purposes and contains a variety of bugs and vulnerabilities that can be used to teach testing and how to find and exploit application vulnerabilities.
 
-Przypadki testowe zostały wykonane w narzędziu Jira i eksportowane do formatu pdf i xls.
+The test cases were made in the Jira tool and exported to pdf and xls format.
 
-Link do aplikacji: http://mrbuggy.pl/mrbuggy7/
-Przerpowadzone przypadki testowe: MrBuggy7-PrzypadkiTestowe/JiraMrBuggy7
+Link to the application: http://mrbuggy.pl/mrbuggy7/
+Expedited test cases: MrBuggy7-TestCases/JiraMrBuggy7
