@@ -1,3 +1,34 @@
+[ENG]
+In this department, I participated in a multi-day Quality Assurance marathon implemented by GoIT. 
+
+In the implemented marathon, I acquired knowledge of theory, QA responsibilities and practical issues through the projects performed.
+
+QA Marathon syllabus:
+/theory/.
+- Who is a tester?
+- Role of the tester in the team
+- Test artefacts (what is a test case and what is its function)
+- How to complete a bug report
+- Documentation workflow (what happens after the tester has completed the bug report).
+- Types of testing
+/Practice/
+- Working with software: TestReil, Jira
+- Two projects: bug reporting, creating test cases, working with documentation
+
+
+Project 1:
+- Working with the TestReil tool
+- Working with documentation and creating test cases
+Testowana strona: https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917
+Documentation of the website: https://faq-qa.m.goit.global/pl/
+Appendices, respectively C1 corresponds to test case 1, etc.
+
+Project 2:
+- Working with the Jira tool
+- Working with documentation and bug reporting (based on reports from fictitious users)
+Website under test: https://pro-test.qa.m.goit.global/
+
+[PL]
 W tym dziale uczestniczyłem w kilkudniowym maratonie Quality Assurance realizowanym przez GoIT. 
 
 W realizowanym maratonie nabyłem wiedzę z zakresu teorii, obowiązków QA oraz praktycznych zagadnień poprzez wykonywane projekty.
