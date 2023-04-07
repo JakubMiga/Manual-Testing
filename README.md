@@ -1,1 +1,1 @@
-# Dział przeznaczony testowaniu manualnemu.
+# A section dedicated to manual testing.
