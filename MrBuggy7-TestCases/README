@@ -1,0 +1,8 @@
+# In this project, I tested the MrBuggy7 programme.
+
+MrBuggy7 is a fictional computer program that is often used as an example in software testing or IT security training. The programme was created specifically for educational purposes and contains a variety of bugs and vulnerabilities that can be used to teach testing and how to find and exploit application vulnerabilities.
+
+The test cases were made in the Jira tool and exported to pdf and xls format.
+
+Link to the application: http://mrbuggy.pl/mrbuggy7/
+Expedited test cases: MrBuggy7-TestCases/JiraMrBuggy7
