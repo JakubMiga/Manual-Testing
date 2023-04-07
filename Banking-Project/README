@@ -1,0 +1,9 @@
+# Project Summary
+
+The 'Guru99 Banking Project' is a software project to develop a complete banking system that will run in a test environment. The 'Software Requirements Specification' document was published on 25 October 2013 and details the functional and non-functional requirements of the project.
+
+Functional requirements describe what functions the banking system should have. They may include aspects such as logging into the system, managing bank accounts, performing transactions, handling payment cards, generating financial reports, managing customers, handling loans and investments, and integrating with other external systems.
+
+Non-functional design requirements may include performance, security, scalability, reliability, availability, user interfaces, legal compliance and documentation and staff training requirements.
+
+The 'Guru99 Banking Project' aims to develop a complete banking system to be tested in a test environment. The 'Software Requirements Specification' document published on 25 October 2013 details the functional and non-functional requirements of the project.
